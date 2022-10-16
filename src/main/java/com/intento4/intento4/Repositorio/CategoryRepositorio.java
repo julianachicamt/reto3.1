@@ -27,9 +27,9 @@ public class CategoryRepositorio {
         return categoryCrudRepository.save(category);
     }
 
-  //  public Category update(Category category){
-  //      return categoryCrudRepository.update(category);
-  //  }
+ //   public Category update(Category category){
+ //       return categoryCrudRepository.update(category);
+ //   }
 
 
     

@@ -52,8 +52,8 @@ public class Category implements Serializable{
         return cabin;
     }
 
-    public void setCabin(List<Cabin> cabin) {
-        this.cabin = cabin;
+    public void setCabin(List<Cabin> cabins) {
+        this.cabin = cabins;
     }
     
     
